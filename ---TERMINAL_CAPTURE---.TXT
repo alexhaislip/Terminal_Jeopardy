@@ -1,0 +1,41 @@
+Last login: Sun Mar 14 16:03:08 on ttys001
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~
+╰─○ python3 main.py
+/usr/local/Cellar/python/3.7.7/Frameworks/Python.framework/Versions/3.7/Resources/Python.app/Contents/MacOS/Python: can't open file 'main.py': [Errno 2] No such file or directory
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~
+╰─○ ls
+Applications           Movies                 node_modules
+Creative Cloud Files   Music                  outputfile.txt
+Desktop                Pictures               package-lock.json
+Documents              Projects               package.json
+Downloads              Public                 zsh-autosuggestions
+Library                iCloud Drive (Archive)
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~
+╰─○ cd Projects
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~/Projects
+╰─○ ls
+CodeScope                         XML_Notes
+CodeScope_Visual_Studio_Extension badass
+CodeScope_extention               clubbvent
+Data_Structures_Notes             gitfiti
+ExperimentsPython                 github-follow-bot
+Github_repo_stats                 profile
+Jasonpedia                        profile-life
+Raven-Industries                  swim_alpha_app
+Raven_Autonmy_automations         terminal_Notes
+Stack_Diagram_Notes               test
+Terminal_Jeopardy                 usa_times_scraper
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~/Projects
+╰─○ cd Terminal_Jeopardy
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~/Projects/Terminal_Jeopardy on main✘✘✘
+╰─± cd Terminal_Jeopardy
+cd: no such file or directory: Terminal_Jeopardy
+╭─alexanderhaislip at Alexander’s MacBook Pro in ~/Projects/Terminal_Jeopardy on main✘✘✘
+╰─± python3 main.py
+pygame 2.0.1 (SDL 2.0.14, Python 3.7.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+install
+found install
+Playing Jeopardy theme song...
+done
+Playing...
